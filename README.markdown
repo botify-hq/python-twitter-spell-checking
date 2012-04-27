@@ -45,6 +45,15 @@ Some parts of code from http://norvig.com/spell-correct.html
 
 ```
 from twitter_spelling import Correct
-c = Correct(settings_file_loction)
+c = Correct(settings_file_location)
 c.correct('my expression')
+```
+
+If in your namespace, your are following some sport and news account :
+
+```
+>> c.correct('franck riberi')
+franck riberi
+>> c.correct('steve job')
+steve jobs
 ```
