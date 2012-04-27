@@ -53,7 +53,7 @@ If in your namespace, your are following some sport and news account :
 
 ```
 >> c.correct('franck riberi')
-franck riberi
+franck ribery
 >> c.correct('steve job')
 steve jobs
 ```
