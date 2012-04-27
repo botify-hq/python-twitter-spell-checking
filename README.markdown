@@ -56,4 +56,8 @@ If in your namespace, your are following some sport and news account :
 franck ribery
 >> c.correct('steve job')
 steve jobs
+>> c.correct('news york')
+new york
+>> c.correct('comunity')
+community
 ```
